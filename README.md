@@ -1,4 +1,4 @@
-# Dacon Competitions
+# Dacon Competition
 
 ### subject
 [2023년 Dacon 대회 평균 참여자 수 및 게시판 활성도에 대한 통계분석](https://www.notion.so/2023-Dacon-7488bdfef1ec46899e6eea9d286dbded)  
