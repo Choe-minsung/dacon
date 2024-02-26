@@ -10,3 +10,11 @@
 - stack : Python (Jupyter Notebook)
 - tool : ppt
 - member : 데이터분석 및 시각화 **3**
+
+  
+### pipeline
+<img src='https://github.com/Choe-minsung/img/blob/df555ea3e2867a814b18dc6d4a4f75e564185550/dacon_pipeline.png' width='500'/>
+
+  
+### certification
+<img src='https://github.com/Choe-minsung/img/blob/df555ea3e2867a814b18dc6d4a4f75e564185550/dacon_certification.png' width='700'/>
