@@ -2,6 +2,7 @@
 
 ### subject :
 [2023년 Dacon 대회 평균 참여자 수 및 게시판 활성도에 대한 통계분석](https://www.notion.so/2023-Dacon-7488bdfef1ec46899e6eea9d286dbded)  
+(링크를 누르면 포트폴리오로 연결됩니다.)  
 
 <img src='https://github.com/Choe-minsung/img/blob/097876e1110cd9781c21ff89e0840b91de8edf4e/%EC%9B%94%EA%B0%84%EB%8D%B0%EC%9D%B4%EC%BD%98.png' width='700'/>
 
